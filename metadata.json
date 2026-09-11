@@ -1,0 +1,6 @@
+{
+  "name": "VeriTrust",
+  "description": "AI-powered Fake Identity & Document Screening System with explainable risk analysis and Document DNA forensics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
